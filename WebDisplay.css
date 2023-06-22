@@ -1,0 +1,40 @@
+.container{
+    border:solid;
+    height: 700px;
+    width: auto;
+
+}
+#header{
+    height: 100px;
+    width: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    border: solid;
+}
+.middle{
+    
+    display: flex;}
+#a,#b,#c{
+    display: flex;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: solid;
+    margin: 2px;
+    height: 400px;
+    width: 170px;
+}    
+#footer{
+    height: 70px;
+    width: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    border: solid;
+}
